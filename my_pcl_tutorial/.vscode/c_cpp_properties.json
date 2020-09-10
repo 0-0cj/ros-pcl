@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/cj/catkin_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/cj/catkin_ws/src/beginner_tutorials/include/**",
+                "/home/cj/catkin_ws/src/my_pcl_tutorial/include/**",
+                "/home/cj/catkin_ws/src/python_bindings_tutorial/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14"
+        }
+    ],
+    "version": 4
+}
